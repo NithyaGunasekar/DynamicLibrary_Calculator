@@ -1,0 +1,12 @@
+use_frameworks!
+
+target 'DynamicLibrary_Calculator_Example' do
+  pod 'DynamicLibrary_Calculator', :path => '../'
+
+  target 'DynamicLibrary_Calculator_Tests' do
+    inherit! :search_paths
+
+    pod 'Quick', '~> 2.2.0'
+    pod 'Nimble', '~> 8.0.7'
+  end
+end
