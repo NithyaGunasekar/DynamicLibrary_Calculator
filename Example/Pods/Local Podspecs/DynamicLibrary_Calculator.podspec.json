@@ -1,0 +1,22 @@
+{
+  "name": "DynamicLibrary_Calculator",
+  "version": "0.1.0",
+  "summary": "A short description of DynamicLibrary_Calculator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/hemavardhini2912@gmail.com/DynamicLibrary_Calculator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "hemavardhini2912@gmail.com": "86668732+NithyaGunasekar@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/hemavardhini2912@gmail.com/DynamicLibrary_Calculator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "osx": "10.10"
+  },
+  "source_files": "DynamicLibrary_Calculator/Classes/**/*"
+}

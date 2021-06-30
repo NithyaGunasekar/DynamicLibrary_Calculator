@@ -1,0 +1,27 @@
+PODS:
+  - DynamicLibrary_Calculator (0.1.0)
+  - Nimble (8.0.9)
+  - Quick (2.2.1)
+
+DEPENDENCIES:
+  - DynamicLibrary_Calculator (from `../`)
+  - Nimble (~> 8.0.7)
+  - Quick (~> 2.2.0)
+
+SPEC REPOS:
+  trunk:
+    - Nimble
+    - Quick
+
+EXTERNAL SOURCES:
+  DynamicLibrary_Calculator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DynamicLibrary_Calculator: 4297709040757bee9255e26df9ade61bdfa99078
+  Nimble: 98b888285a615fd34f20e61753cf58ea1402bde4
+  Quick: f5754d69b7013f5864c29aab9ae6f0c79c5bc200
+
+PODFILE CHECKSUM: f96cf0f8f99acfe690967666d97b97a7c66d2ed0
+
+COCOAPODS: 1.10.1
